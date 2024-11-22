@@ -1,0 +1,3 @@
+ python -m pip install pyinstaller 
+ pip install requests   
+ pip install tkinterdnd2 

@@ -1,0 +1,2 @@
+RHDHV_ID,COTRef,House Name,House Number,Street,Locality,District,Place,Region,Country,Postcode,UPRN,ADDRESS,POSTCODE,X_COORDINATE,Y_COORDINATE,MATCH,API_RESPONSE
+1,1,flat 6,52,Liverpool,,United Kingdom, L26 KA,,,,,,,"{'fault': {'faultstring': 'Free Trial allowance exceeded', 'detail': {'errorcode': 'TooManyRequests'}}}"
